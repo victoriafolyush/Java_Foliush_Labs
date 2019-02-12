@@ -1,4 +1,4 @@
-public class Squeezer {
+public class Squeezer { 
     public static int numberOfSpeed = 0;
     protected String barCode;
     protected boolean isGuarantee;
